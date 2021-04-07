@@ -2,7 +2,7 @@
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![](https://github.com/nursinkeles/kodluyoruzilkrepo.git.png)
-![](ilkRepository.png)
+![](https://github.com/nursinkeles/taskforce/blob/main/git/odev1/figures/github.png)
 
 
 ## Installation
